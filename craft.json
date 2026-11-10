@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "name": "SketchUp",
+  "request": "O mesmo aplicativo, porém com o design levemente alterado e modernizado, porém preserver todas as mesma funcionalidades",
+  "target": {
+    "kind": "local",
+    "path": "F:\\SketchUp\\SketchUp\\SketchUp.exe"
+  },
+  "stack": "Rust + egui (eframe)",
+  "status": "building",
+  "note": "Building the first version…",
+  "created_ms": 1794160389140,
+  "updated_ms": 1794161553063,
+  "checks": [],
+  "agent_session": null,
+  "agent_session_by": "antigravity",
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false
+}

@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "values": [
+    {
+      "name": "units",
+      "group": "units",
+      "value": 0.0,
+      "unit": "mode",
+      "source": "sandboxdefaults.ini"
+    },
+    {
+      "name": "stamp offset",
+      "group": "sandbox",
+      "value": 12.0,
+      "unit": "inches",
+      "source": "sandboxdefaults.ini"
+    },
+    {
+      "name": "grid spacing x",
+      "group": "sandbox",
+      "value": 120.0,
+      "unit": "inches",
+      "source": "sandboxdefaults.ini"
+    },
+    {
+      "name": "grid spacing y",
+      "group": "sandbox",
+      "value": 120.0,
+      "unit": "inches",
+      "source": "sandboxdefaults.ini"
+    },
+    {
+      "name": "smoove radius",
+      "group": "sandbox",
+      "value": 360.0,
+      "unit": "inches",
+      "source": "sandboxdefaults.ini"
+    },
+    {
+      "name": "camera field of view",
+      "group": "camera",
+      "value": 35.0,
+      "unit": "degrees",
+      "source": "Temp01a - Simple.skp"
+    },
+    {
+      "name": "camera eye distance",
+      "group": "camera",
+      "value": 8.5,
+      "unit": "m",
+      "source": "Temp01a - Simple.skp"
+    },
+    {
+      "name": "scale figure height",
+      "group": "model",
+      "value": 1.68,
+      "unit": "m",
+      "source": "Temp01a - Simple.skp"
+    },
+    {
+      "name": "sky color hex",
+      "group": "style",
+      "value": "#BFE3FA",
+      "source": "Temp01a - Simple.skp"
+    },
+    {
+      "name": "ground color hex",
+      "group": "style",
+      "value": "#D2D2D2",
+      "source": "Temp01a - Simple.skp"
+    },
+    {
+      "name": "command 3d text id",
+      "group": "commands",
+      "value": 21940,
+      "source": "resources/pt-br/commands.json"
+    },
+    {
+      "name": "command align view id",
+      "group": "commands",
+      "value": 21035,
+      "source": "resources/pt-br/commands.json"
+    },
+    {
+      "name": "command ambient occlusion id",
+      "group": "commands",
+      "value": 10600,
+      "source": "resources/pt-br/commands.json"
+    },
+    {
+      "name": "default frame rate target",
+      "group": "rendering",
+      "value": 60,
+      "unit": "fps",
+      "estimated": true
+    }
+  ]
+}

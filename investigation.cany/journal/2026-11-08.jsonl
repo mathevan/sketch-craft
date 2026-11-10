@@ -1,0 +1,15 @@
+{"caller":"ui","duration_ms":745,"evidence_id":"ev_425c8f5bcb1249bffc373068f8206dd3f36bad547ee6447fff9ccaf79c9d7775","kind":"tool_call","ok":true,"params":{"path":"F:\\SketchUp\\SketchUp\\SketchUp.exe"},"time":"2026-11-08T17:53:10Z","tool":"core_target_triage","ts":1794160390}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:53:16Z","tool":"project_pins_list","ts":1794160396}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:53:16Z","tool":"project_pins_list","ts":1794160396}
+{"caller":"ui","duration_ms":1,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:53:34Z","tool":"project_pins_list","ts":1794160414}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:53:50Z","tool":"project_pins_list","ts":1794160430}
+{"caller":"ui","duration_ms":1,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:54:03Z","tool":"project_pins_list","ts":1794160443}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:54:45Z","tool":"project_pins_list","ts":1794160485}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T17:54:56Z","tool":"project_pins_list","ts":1794160496}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T18:14:45Z","tool":"project_pins_list","ts":1794161685}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T18:18:43Z","tool":"project_pins_list","ts":1794161923}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T21:26:09Z","tool":"project_pins_list","ts":1794173169}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T21:26:31Z","tool":"project_pins_list","ts":1794173191}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T22:14:13Z","tool":"project_pins_list","ts":1794176053}
+{"caller":"ui","duration_ms":12,"kind":"tool_call","ok":true,"params":{"project":"F:\\Sketch Craft"},"time":"2026-11-08T22:14:15Z","tool":"project_open_folder","ts":1794176055}
+{"caller":"ui","duration_ms":0,"kind":"tool_call","ok":true,"params":{},"time":"2026-11-08T22:15:23Z","tool":"project_pins_list","ts":1794176123}
